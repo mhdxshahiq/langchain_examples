@@ -1,0 +1,4 @@
+{
+  "input_variables": ["paper_input", "style_input", "length_input"],
+  "template": "Explain the research paper '{paper_input}' in a {style_input} style and keep the explanation {length_input}. Focus on the main ideas, contributions, and significance."
+}
