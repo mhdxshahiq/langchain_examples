@@ -1,0 +1,92 @@
+SALMAN FARIS C K
+Phone: +971-56 708 9761 | Gmail: salmanfariskabeerc@gmail.com | Location: UAE | Availability: Immediate | Linkedin: Salman Faris Kabeer
+
+PROFESSIONAL SUMMARY
+Results-driven AI and Data Science Engineer passionate about leveraging business analytics, marketing strategy, and customer intelligence to drive impactful decisions. Proficient in Python, SQL, Tableau, and machine learning frameworks, I excel at transforming complex data into clear, actionable insights. Known for strong problem-solving skills, effective communication, and a growth mindset, I thrive in fast-paced environments where innovation meets strategy. Committed to helping businesses unlock value and accelerate growth through data-driven solutions. I continuously seek to expand my knowledge and stay updated with the latest advancements in AI and data science. My goal is to contribute to meaningful projects that create measurable business impact and foster innovation.
+
+AI / Project Coordinator / Data Analyst / Business Analyst / BI Analyst / Software Engineer
+
+WORK EXPERIENCE
+
+Business Intelligence Analyst
+Mansion Builders, Thrissur, Kerala | March 2025 – June 2025
+- Analyzed and optimized construction and procurement data to enhance project efficiency, cost-effectiveness, and material quality.
+- Spearheaded collaboration among architects, engineers, and procurement teams to align market insights with technical requirements.
+- Created interactive dashboards using Tableau, Excel, and Python, empowering stakeholders with data-driven insights.
+- Investigated real estate trends to inform investment strategies and purchasing choices.
+- Led a team evaluating property value projections, land use patterns, and ROI forecasts.
+- Simplified complex data for clients and stakeholders to aid long-term planning.
+- Used predictive modeling for material demand forecasting and budget planning.
+- Enhanced decision-making by aligning operational data with business goals.
+
+Business Analyst Intern
+Mansion Builders, Thrissur, Kerala | July 2024 – February 2025
+- Researched construction market trends, pricing, and supplier dynamics.
+- Collaborated with architects and procurement teams to understand purchasing processes.
+- Monitored data to identify cost and quality improvements.
+- Prepared market reports and presentations for stakeholders.
+- Developed a strong understanding of business aspects of construction management.
+
+Chief Operating Officer
+ADTEC (Artificial Intelligence & Data Science Technical Community) | January 2024 – April 2025
+- Directed ADTEC operations, growing it into a leading student-run AI & Data Science community.
+- Built partnerships with CEOs, startups, and academic institutions.
+- Organized events and seminars on AI, ML, Data Science, IoT, and Automation.
+- Managed budgets, logistics, and event coordination.
+- Represented ADTEC in institutional and inter-college innovation platforms.
+
+Assistant Marketing Officer
+IEDC MESCE (Innovation and Entrepreneurship Development Cell) | July 2022 – August 2023
+- Developed and executed marketing strategies for innovation events and startup initiatives.
+- Designed promotional content and coordinated social media campaigns.
+- Managed influencer partnerships and speaker onboarding.
+- Facilitated communication between startups, mentors, and investors.
+- Analyzed participation data to refine engagement strategies.
+- Created newsletters, reports, and brand messages aligned with Kerala Startup Mission goals.
+
+EDUCATION
+B.Tech – Engineering in Artificial Intelligence and Data Science
+MES College of Engineering, Kuttippuram
+
+LANGUAGES
+- English
+- Hindi
+- Malayalam
+
+PROFESSIONAL SKILLS
+
+AI & Data Skills:
+- AI & ML Implementation
+- Predictive Modeling & Forecasting
+- Data Analytics & Visualization
+- Business Intelligence & Strategic Insights
+- Customer & Market Behavior Analysis
+- Python, SQL, R, PySpark
+- Machine Learning & Deep Learning
+- CRM & Customer Segmentation
+- Tableau, Power BI, Google Data Studio
+- Regression, Classification, Clustering
+- Model Evaluation, Forecasting
+
+Software & Tools:
+- Pandas, NumPy, Matplotlib, Seaborn, OpenCV
+- JIRA, Streamlit, PyQt5, Scikit-learn
+- React.js, Figma, Adalo, FastAPI (learning)
+- HubSpot CRM, Zapier, LangChain (exploring), n8n
+- Excel, Google Analytics, A/B Testing
+
+Professional & Soft Skills:
+- Time Management & Adaptability
+- Client Relationship Management
+- Cross-Functional Collaboration
+- Project Planning & Coordination
+- Public Speaking & Presentation
+- Agile & Waterfall Methodologies
+
+PROJECTS
+- Farmer & Cultivator Market Insights App: AI/ML-powered app predicting crop demand, market trends, policy updates, and buyer-seller connections.
+- Civil Worker Role Optimization Platform: Assigns optimal worker roles based on health and skill data to reduce errors.
+- Smart Factory Optimization Platform: Integrates worker and factory data to boost efficiency.
+- Customer & Retailer Loyalty App: Offers barcode-based rewards, personalized offers, and sales predictions.
+- Retailer Sales & Insights Dashboard: Visualizes sales data, product performance, and customer trends.
+- Construction & Real Estate Market Analysis Dashboard: Analyzes pricing trends and supplier performance using Tableau/Excel.
