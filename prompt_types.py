@@ -1,6 +1,7 @@
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_core.prompts import ChatPromptTemplate
-from langchain_core.messages import SystemMessage, HumanMessage, AIMessage
+from langchain_core.messages import SystemMessage, HumanMessage, AIMessage 
+
 
 # Initialize model
 llm = ChatGoogleGenerativeAI(
@@ -41,3 +42,4 @@ chat_template = ChatPromptTemplate.from_messages([
 formatted_messages = chat_template.format_messages(topic="gravity")
 response = llm.invoke(formatted_messages)
 print("Multi-turn dynamic:", response.content)
+
